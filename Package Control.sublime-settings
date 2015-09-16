@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Clipboard Manager",
+		"DocBlockr",
+		"DoxyDoxygen",
+		"DoxyDoxygen (evolution)",
+		"DoxyDoxygen_contrib_HeaderDoc",
+		"Entheogen Color Scheme",
+		"Evernote",
+		"FuzzyFileNav",
+		"Google Search",
+		"IceWorld Color Scheme",
+		"jQuery",
+		"jQueryDocs",
+		"JsFormat",
+		"JSLint",
+		"Kulture",
+		"LoremGibson",
+		"MacTerminal",
+		"Minifier",
+		"Nettuts+ Fetch",
+		"OmniSharp",
+		"Open Folder",
+		"Open URL",
+		"Package Control",
+		"Package Syncing",
+		"Search Stack Overflow",
+		"SublimeGoogle",
+		"SublimeLinter",
+		"SublimeLinter-phplint",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"Today Color Scheme"
+	]
+}
