@@ -9,6 +9,7 @@
 		"BracketHighlighter",
 		"ChangeQuotes",
 		"Clipboard Manager",
+		"Color Scheme - Frontend Delight",
 		"DocBlockr",
 		"DoxyDoxygen",
 		"DoxyDoxygen (evolution)",
@@ -28,6 +29,7 @@
 		"Minifier",
 		"Nettuts+ Fetch",
 		"OmniSharp",
+		"One Dark Color Scheme",
 		"Open Folder",
 		"Open URL",
 		"Package Control",
@@ -38,6 +40,8 @@
 		"SublimeLinter-phplint",
 		"SublimeLinter-pylint",
 		"SublimeREPL",
+		"TabsExtra",
+		"Theme - Cobalt2",
 		"Today Color Scheme"
 	]
 }
